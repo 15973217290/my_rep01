@@ -29,10 +29,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ytrkI1-n0MJOcPDR4_dU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ytrkI1-n0MJOcPDR4_dU-13" target="ytrkI1-n0MJOcPDR4_dU-1">
+        <mxCell id="ytrkI1-n0MJOcPDR4_dU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF8000;" edge="1" parent="1" source="ytrkI1-n0MJOcPDR4_dU-13" target="ytrkI1-n0MJOcPDR4_dU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ytrkI1-n0MJOcPDR4_dU-20" value="复杂问题重新提问大模型(其他大模型)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ytrkI1-n0MJOcPDR4_dU-19">
+        <mxCell id="ytrkI1-n0MJOcPDR4_dU-20" value="&lt;font color=&quot;#ff8000&quot;&gt;复杂问题重新提问大模型(其他大模型)&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ytrkI1-n0MJOcPDR4_dU-19">
           <mxGeometry x="0.3385" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>

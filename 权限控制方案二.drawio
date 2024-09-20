@@ -69,7 +69,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cuHNZYRt4D5FFOTQdXUN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.598;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cuHNZYRt4D5FFOTQdXUN-14" target="cuHNZYRt4D5FFOTQdXUN-9">
+        <mxCell id="cuHNZYRt4D5FFOTQdXUN-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=0.598;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00FF00;" edge="1" parent="1" source="cuHNZYRt4D5FFOTQdXUN-14" target="cuHNZYRt4D5FFOTQdXUN-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cuHNZYRt4D5FFOTQdXUN-34" value="权限范围数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=90;" vertex="1" connectable="0" parent="cuHNZYRt4D5FFOTQdXUN-23">
